@@ -9,7 +9,7 @@
 title: zhaxia 的技术专栏
 brief-intro: IoT
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zhaxia.github.io" # the base hostname & protocol for your site
+url: "https://ColXingYang.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
