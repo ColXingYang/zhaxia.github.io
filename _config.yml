@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: zhaxia 的技术专栏
+title: 邢阳的专栏
 brief-intro: IoT
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ColXingYang.github.io" # the base hostname & protocol for your site
